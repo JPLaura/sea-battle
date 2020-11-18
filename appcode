@@ -146,4 +146,8 @@ cellDivs.forEach(el => {
 
 
 
+<<<<<<< HEAD:appcode
 console.log(gameBoard)
+=======
+console.log(gameBoard)
+>>>>>>> abccc75b75b137d8b204379936516828245304e4:app.js
